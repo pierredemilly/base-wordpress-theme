@@ -24,9 +24,8 @@ Sass imports include:
   * color and font variables files
   * a 960px 12cols grid system
 
-Javascript &amp; Coffeescript
------------------------------
-This theme uses Coffeescript for the script file, compiled into a script.js file.
+Javascript
+----------
 
 jQuery is imported from the Google CDN.
 
